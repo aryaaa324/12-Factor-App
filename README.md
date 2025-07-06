@@ -17,8 +17,6 @@ These practices work across all programming languages and frameworks and are esp
 
 ---
 
-## 🧩 The 12 Factors Explained (in Simple and Detailed Terms)
-
 ### 1️⃣ Codebase
 
 * There should be **exactly one codebase per app**, stored in a version control system like Git.

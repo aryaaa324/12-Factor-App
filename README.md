@@ -1,5 +1,5 @@
 
-# 🧱 12-Factor App: In-Depth Notes in Simple Language
+# 12-Factor App: In-Depth Notes in Simple Language
 
 > A beginner-friendly guide to the 12-Factor App methodology for building modern, scalable, cloud-ready applications.
 
